@@ -64,3 +64,8 @@ url = git@github.com:[git-user]/[repo].git
 ~~~
 url = git@[alias]:[git-user]/[repo].git
 ~~~
+
+
+<!--
+SSH config to allow many different users to work from the same machine
+-->
